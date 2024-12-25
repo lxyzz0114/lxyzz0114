@@ -1,6 +1,5 @@
 # Hi, I'm Saltfish/lxyzz0114
-**_Programming rookie_**
-Computer Engineering Undergraduate Student.
+**_Programming rookie_** | Computer Engineering Undergraduate Student
 
 ### About Me
 - 👀 I’m interested in robotic and embedded system.
