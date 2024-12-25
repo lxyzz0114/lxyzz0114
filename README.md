@@ -1,12 +1,12 @@
 # Hi, I'm Saltfish/lxyzz0114
 Computer Engineering Undergraduate Student. **_Programming rookie._&&
 
-###### About Me
+### About Me
 - 👀 I’m interested in robotic and embedded system.
 - 🌱 I’m currently learning data structure and algorithm.
 
-### Technology & Tools
 ---
+### Technology & Tools
 
 <!---
 lxyzz0114/lxyzz0114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
