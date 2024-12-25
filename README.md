@@ -1,5 +1,6 @@
 # Hi, I'm Saltfish/lxyzz0114
-Computer Engineering Undergraduate Student. **_Programming rookie_**
+**_Programming rookie_**
+Computer Engineering Undergraduate Student.
 
 ### About Me
 - 👀 I’m interested in robotic and embedded system.
@@ -7,6 +8,9 @@ Computer Engineering Undergraduate Student. **_Programming rookie_**
 
 ---
 ### Technology & Tools
+
+---
+### Project
 
 <!---
 lxyzz0114/lxyzz0114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
