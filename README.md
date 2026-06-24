@@ -10,4 +10,4 @@
 @lxyzz0114
 </pre>
 
-[Personal Website](https://lxyzz0114.github.io/) | [LinkedIn](www.linkedin.com/in/liliana-zheng-zheng-370860281)
+[Personal Website](https://lxyzz0114.github.io/)
