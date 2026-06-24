@@ -7,5 +7,7 @@
 \__ \ (_| | | |_| | | \__ \ | | |
 |___/\__,_|_|\__|_| |_|___/_| |_|
 </span>
-[@lxyzz0114](https://lxyzz0114.github.io/)
+@lxyzz0114
 </pre>
+
+[Personal Website](https://lxyzz0114.github.io/) | [LinkedIn](www.linkedin.com/in/liliana-zheng-zheng-370860281)
